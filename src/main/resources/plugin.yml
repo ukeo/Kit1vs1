@@ -1,0 +1,9 @@
+name: Kit1vs1
+version: 1.0
+author: Espen
+main: net.kit1vs1.core.Kit1vs1
+
+commands:
+  setup:
+  addelo:
+  stats:
